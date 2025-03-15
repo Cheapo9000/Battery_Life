@@ -1,0 +1,16 @@
+c:\users\tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Battery_Life.exe
+c:\users\tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Battery_Life.pdb
+c:\users\tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\obj\x86\Debug\Battery_Life.exe
+c:\users\tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\obj\x86\Debug\Battery_Life.pdb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\robot.xnb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\wall.xnb
+C:\Users\Tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\column_background.xnb
+C:\Users\Tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\floor.xnb
+C:\Users\Tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\plug.xnb
+C:\Users\Tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\Robot_1to3.xnb
+C:\Users\Tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\wall_background.xnb
+C:\Users\Tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\shield.xnb
+C:\Users\Tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\lifeBar.xnb
+C:\Users\Tim\documents\visual studio 2010\Projects\Battery_Life\Battery_Life\Battery_Life\bin\x86\Debug\Content\Sprites\lifeBlock.xnb
